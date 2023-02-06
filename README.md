@@ -6,7 +6,7 @@
 </p>
 
 ### Languages and Tools:
-<p>• Comfortable With - C, Python, Java, SQL, HTML, CSS, Git
+<p>• Comfortable With - C, Python, Java, SQL, HTML, CSS, Git, Solidworks
 <br>• Currently Learning - C++, Javascript, React
 </p>
 
