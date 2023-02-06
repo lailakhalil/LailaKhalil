@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Laila!
 
-<!--
-**LailaKhalil/LailaKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a Computer Engineering undergraduate student with a minor in mathematics.
+<br>I have a passion for problem-solving and creating solutions, and I aspire to be a software engineer!
+<br>For more information about my projects and studies, check out <a href="https://lailakhalil.github.io">my portfolio website</a>!
+</p>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+<p>• Comfortable With - C, Python, Java, SQL, HTML, CSS, Git
+<br>• Currently Learning - C++, Javascript, React
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me:
+<a href="https://www.linkedin.com/in/laila-k/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:lailakatek@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
