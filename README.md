@@ -6,8 +6,7 @@
 </p>
 
 ### Languages and Tools:
-* Comfortable With - C, Python, Java, SQL, HTML, CSS, Git, Solidworks
-* Currently Learning - C++, Javascript, React
+* C, Javascript, Python, Java, SQL, HTML, CSS, Git, Solidworks
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/laila-k/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
